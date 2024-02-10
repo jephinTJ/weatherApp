@@ -1,6 +1,6 @@
 # weatherApp
 
-### [Live Site](https://weather-app-jephin.pages.dev/)
+### [Live Site](https://weather-app-jephintj.pages.dev/)
 
 This is a weather website that provides the latest weather updates for various cities. It utilizes HTML, CSS, and JavaScript to fetch and display the weather data from a weather API.
 
