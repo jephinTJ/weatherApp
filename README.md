@@ -36,3 +36,7 @@ Contributions to the weather website are welcome! If you find any bugs or have s
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 
 #### [Jephin](https://github.com/jephinTJ)
+
+
+<img width="162" alt="ls" src="https://github.com/jephinTJ/weatherApp/assets/142671149/a1f5a593-380e-4a93-8c99-1527916b028e">
+<img width="960" alt="lq" src="https://github.com/jephinTJ/weatherApp/assets/142671149/d9cebad2-7638-4a81-a54d-8fc6656281c1">
